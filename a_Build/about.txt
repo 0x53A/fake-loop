@@ -1,0 +1,3 @@
+build.csproj is only used to restore the FAKE toolset (dotnet restore).
+
+build.fsx is the main entry point for the build script.
